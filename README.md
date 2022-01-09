@@ -1,6 +1,14 @@
 # Hello, folks!, I am Abhratanu <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
+I'm a Grad Student @ Syracuse University
 
+🛠 I’m currently working with - Object Oriented programming using C++, Android app development with Kotlin 💻.
+
+👩🏻‍💻 I’m currently learning Full Stack Development 🚀 and Algorithms
+
+💬 Ask me about anything! I am happy to help.
+
+📫 How to reach me: nealsaha1007@gmail.com
 
 <!-- Actual text -->
 
