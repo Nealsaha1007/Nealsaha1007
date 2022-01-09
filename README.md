@@ -1,4 +1,4 @@
-# Hello, folks!, I am Abhratanu <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hello, folks! I am Abhratanu <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 I'm a Grad Student @ Syracuse University
 
