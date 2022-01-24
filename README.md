@@ -8,7 +8,7 @@ I'm a Grad Student @ Syracuse University
 
 💬 Ask me about anything! I am happy to help.
 
-📫 How to reach me: nealsaha1007@gmail.com
+📫 How to reach me: absaha@syr.edu, nealsaha1007@gmail.com
 
 <!-- Actual text -->
 
