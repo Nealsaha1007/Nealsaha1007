@@ -1,12 +1,18 @@
 # Hello, folks! I am Abhratanu <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-I'm a Grad Student @ Syracuse University
+🚀 Site Reliability Engineer | DevOps | Cloud-Native Architect | Kubernetes & Observability Enthusiast
 
-🛠 I’m currently working with - Object Oriented programming using C++ & Java, Android app development with Kotlin 💻.
+More Technical & Focused:
+⚙️ Automating Infrastructure, Optimizing Systems, and Building Scalable Cloud Solutions
 
-👨🏻‍💻 I’m currently learning System Design, Full Stack Development 🚀 and Algorithms
+Creative & Catchy:
+🔧 Taming Clouds, Scaling Code, and Keeping Systems Sane
 
-💬 Ask me about anything! I am happy to help.
+Minimalist & Clean:
+🔹 SRE | DevOps | Cloud Engineering | Infra as Code
+
+Impact-Oriented:
+📈 Driving Uptime, Cutting Costs, and Building Resilient Cloud Systems
 
 📫 How to reach me: absaha@syr.edu, nealsaha1007@gmail.com
 
