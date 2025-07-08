@@ -16,7 +16,8 @@ Let’s build things that don’t just run — but thrive at scale.
 
 <!-- Actual text -->
 
-Connect @ https://www.linkedin.com/in/abhratanu-saha/ \n
+Connect @ https://www.linkedin.com/in/abhratanu-saha/
+
 Portfolio: https://tinyurl.com/ABSAHA
 
 <!-- Icons -->
