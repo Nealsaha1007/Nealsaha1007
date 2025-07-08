@@ -1,18 +1,16 @@
 # Hello, folks! I am Abhratanu <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+ — a Site Reliability Engineer and Cloud DevOps specialist passionate about building scalable, reliable, and cost-efficient systems.
 
-🚀 Site Reliability Engineer | DevOps | Cloud-Native Architect | Kubernetes & Observability Enthusiast
+🔹 At Upshop, I lead infrastructure and DevOps initiatives, managing multi-cloud Kubernetes environments (Azure & GCP) with GitOps practices. I’ve driven platform-wide architectural upgrades, integrated observability stacks like Datadog and Prometheus, and cut cloud costs by 70% while boosting deployment speed and stability.
 
-More Technical & Focused:
-⚙️ Automating Infrastructure, Optimizing Systems, and Building Scalable Cloud Solutions
+🔹 At WEX Inc., I engineered large-scale data processing systems using Python, AWS EMR, and KSQL, helping break down petabytes of data for real-time applications. My work enabled production-ready data pipelines, enhanced test automation with Selenium & JUnit, and improved CI/CD with Jenkins.
 
-Creative & Catchy:
-🔧 Taming Clouds, Scaling Code, and Keeping Systems Sane
+🔹 At Microsoft, I wore multiple hats — from architecting cloud-suitable solutions to delivering end-to-end backend services on Azure. I worked with Kubernetes, OpenShift, and relational databases to modernize and scale customer-facing applications.
 
-Minimalist & Clean:
-🔹 SRE | DevOps | Cloud Engineering | Infra as Code
+⚙️ Skilled in: Kubernetes | Terraform | Python | Azure | GCP | CI/CD | Observability (Grafana, Prometheus, Datadog) | Infra as Code
+🎯 Obsessed with: Resilience engineering, automation, cost optimization, and clean DevOps workflows.
 
-Impact-Oriented:
-📈 Driving Uptime, Cutting Costs, and Building Resilient Cloud Systems
+Let’s build things that don’t just run — but thrive at scale.
 
 📫 How to reach me: absaha@syr.edu, nealsaha1007@gmail.com
 
