@@ -18,7 +18,7 @@ Impact-Oriented:
 
 <!-- Actual text -->
 
-You can find me on [![LinkedIn][2.2]][2].
+Connect @ https://www.linkedin.com/in/abhratanu-saha/
 
 <!-- Icons -->
 
